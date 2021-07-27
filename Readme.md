@@ -4,7 +4,7 @@ This Project is Aimed at monitoring the air quality at a particular location usi
 
 > This manual is made for a Linux system So for any other Operating systems there maybe dome discrepancies
 
-[Detailed Manual](/README/Manual.md)
+[Detailed Manual](/MANUAL/Manual.md)
 
 ### Requirements
 
